@@ -12,6 +12,7 @@ Use:
 A small GUI will display, in the top left you can choose your login type.
 
 Start with the tenant!
+
 ![login](https://github.com/user-attachments/assets/419c16cf-6af9-4502-86b3-e9a61a81dd49)
 
 The tenants are "Bob", "Alex, or "Jelly", enter a name to log in.
@@ -24,6 +25,7 @@ Now you can add work requests from another tenant, or go to the Boss login.
 
 The boss login name is "Admin"
 After logging in with the boss you can see all the work requests and data about the tenant, request, date, work request number, status, etc.
+
 ![Boss GUI](https://github.com/user-attachments/assets/c47c574d-ac5c-4e58-a918-605863cb0a71)
 From here the boss/maintenance manager will be able to assign the work requests to an employee.
 At the bottom of the screen, select a request number, assign a priority, and choose an employee to assign the request to.
@@ -31,7 +33,9 @@ AGAIN, the screen will not populate or change until you logout/login but you may
 
 Now you can login as the employees "Jeff" or "Steve".
 You will be presented with a gui showing the work requests assigned for that employee.
+
 ![employee gui](https://github.com/user-attachments/assets/a5249ce3-cbe1-4716-a956-d1604359e909)
 From here the employee can choose a work order, after clicking "Work" the status of the work order will be changed from "Open" to "Closed".
 This will be reflected in the Boss's account and the tenant's account.
+
 ![tenant gui 2](https://github.com/user-attachments/assets/dbc655b0-521f-4308-ab76-b81a9a9fc26a)
